@@ -5,8 +5,8 @@
 El trabajo práctico está dirigido a ocasionar los mayores inconvenientes posibles al utilizar
 ramas en git y hacer el merge de estas entre varios colaboradores ..
 ### Requisitos:
-#Los equipos serán integrados por tres alumnos( todos deben tener cuenta en github) .
-#Los alumnos tendrán un nick en nuestro sistema (ALFA , BETA y GAMMA).
+Los equipos serán integrados por tres alumnos( todos deben tener cuenta en github) .
+Los alumnos tendrán un nick en nuestro sistema (ALFA , BETA y GAMMA).
 interacción 3(ramas):
 1-BETA crea el repositorio llamado : “TP_SO_i3_Equipo_” con readme y un archivo llamado datos.txt, agrega de colaboradores a ALFA y a GAMMA .
 2-GAMMA descarga el repositorio EN FORMA LOCAL, crea una nueva rama con su apellido, modifica el archivo datos.txt agregando su nombre y apellido , la iP de la máquina y la hora, además crea el archivo CPUGamma.txt con el contenido de /proc/cpuinfo y hace el push. (informa al resto del equipo de lo sucedido).
