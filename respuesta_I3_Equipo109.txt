@@ -13,4 +13,16 @@ e- No tuvimos problemas al hacer el merge
 f- echo "Federico Dacal" >> beta.txt
 ifconfing >> beta.txt
 date "+%T" >> beta.txt
-g- 
+
+
+g- 	
+	git pull
+	sudo apt install net-tools 
+	echo "Franco Di Santo" >> beta.txt
+	ifconfig >> beta.txt
+	date >> beta.txt
+	git add .
+	git commit -m "datos ALFA agregados a beta.txt"
+	git status
+	git push
+	 
