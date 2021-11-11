@@ -26,3 +26,9 @@ cache_alignment	: 64
 address sizes	: 48 bits physical, 48 bits virtual
 power management:
 
+
+
+
+Franco Di Santo
+192.168.1.55 
+jue 11 nov 2021 14:07:20 -03
