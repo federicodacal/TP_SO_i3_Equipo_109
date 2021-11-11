@@ -1,0 +1,16 @@
+a- Main queda actualizado acorde a las modificaciones realizadas en la otra rama.
+b- Beta pudo ver los cambios realizados.
+c-
+git branch 
+git checkout main
+git pull origin dacal
+git add .
+git commit -m
+git push origin main
+
+d- Las ramas quedan con datos desactualizados hasta que no se haga git pull y gitmerge para unificar cambios 
+e- No tuvimos problemas al hacer el merge 
+f- echo "Federico Dacal" >> beta.txt
+ifconfing >> beta.txt
+date "+%T" >> beta.txt
+g- 
