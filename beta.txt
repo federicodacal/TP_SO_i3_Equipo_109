@@ -38,3 +38,26 @@ lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
 
 jue 11 nov 2021 14:31:02 -03
+Matias Nicolas Prutscher
+enp0s3: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 192.168.0.64  netmask 255.255.255.0  broadcast 192.168.0.255
+        inet6 2800:810:553:8724::1002  prefixlen 128  scopeid 0x0<global>
+        inet6 2800:810:553:8724:4db:40ac:e6c9:663a  prefixlen 64  scopeid 0x0<global>
+        inet6 fe80::e4b1:d0a9:ce2d:69cc  prefixlen 64  scopeid 0x20<link>
+        inet6 2800:810:553:8724:c2cf:8ab7:5a04:a6af  prefixlen 64  scopeid 0x0<global>
+        ether 08:00:27:da:50:d8  txqueuelen 1000  (Ethernet)
+        RX packets 264843  bytes 358462553 (358.4 MB)
+        RX errors 0  dropped 2115  overruns 0  frame 0
+        TX packets 38748  bytes 3766262 (3.7 MB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Local Loopback)
+        RX packets 894  bytes 88634 (88.6 KB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 894  bytes 88634 (88.6 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+07:49:45
